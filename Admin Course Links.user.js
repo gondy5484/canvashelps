@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Admin Course Links
 // @namespace    https://github.com/jamesjonesmath/canvancement
+// @namespace    https://github.com/gondy5484/canvashelps
 // @description  Add links directly into the course from the admin course search
 // @include      /^https://.*\.instructure\.com/accounts/[0-9]+(\?.*)*$/
 // @version      1
